@@ -1,0 +1,15 @@
+{
+  "name": "cypress-result-failures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node cypress/support/e2e-run-tests.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.6.0"
+  }
+}
